@@ -1,4 +1,4 @@
-# Natural_Language_Processing
+# Generative AI
 
 
-I want to use this for NLP projects.
+summarization task1 --> I had used transformer from hugging face using billsum dataset.
